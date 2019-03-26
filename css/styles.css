@@ -1,0 +1,34 @@
+.walrus-showing {
+  display: none;
+}
+
+.cat-showing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clicky {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickout {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.clicky:hover {
+  text-decoration: underline;
+}
+
+.clickout:hover {
+  text-decoration: underline;
+}
